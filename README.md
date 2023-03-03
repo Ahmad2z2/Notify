@@ -10,12 +10,12 @@
 ---
 
 ## SETUP INSTRUCTIONS 
-Please make backup for **qb-core** file that you change. I am not responsible for any damage you do to your files/server. 
+Please Make a backup file for **qb-core/client/functions** file that you change. I am not responsible for any damage you do to your files/server. 
 
 ---
 
 **CORE CHANGE INSTRUCTIONS**
-- Go to the nil-core -> Client Side Folder -> functions.lua -> line 88
+- Go to the qb-core -> Client Side Folder -> functions.lua -> line 88
 
 - Replace this Event
 ```lua
