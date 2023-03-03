@@ -1,4 +1,4 @@
-# Notify new style .
+# Notify new style.
 
 ### [DISCORD SUPPORT SERVER](https://discord.gg/5fnpvJaBqh)
 
