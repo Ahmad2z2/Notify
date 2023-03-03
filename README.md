@@ -17,8 +17,35 @@ Please take backup of files that you change. I am not responsible for any damage
 **CORE CHANGE INSTRUCTIONS**
 - Go to the nil-core -> Client Side Folder -> functions.lua -> line 88
 
+- Replace this Event
+```lua
+function QBCore.Functions.Notify(text, texttype, length)
+    if type(text) == "table" then
+        local ttext = text.text or 'Placeholder'
+        local caption = text.caption or 'Placeholder'
+        texttype = texttype or 'primary'
+        length = length or 5000
+        SendNUIMessage({
+            action = 'notify',
+            type = texttype,
+            length = length,
+            text = ttext,
+            caption = caption
+        })
+    else
+        texttype = texttype or 'primary'
+        length = length or 5000
+        SendNUIMessage({
+            action = 'notify',
+            type = texttype,
+            length = length,
+            text = text
+        })
+    end
+end
+```
 
-- Paste 
+- With 
 ```lua
 QBCore.Functions.Notify = function(text, textype, length, pro)
     local textype = textype ~= nil and textype
