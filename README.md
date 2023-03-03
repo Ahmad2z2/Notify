@@ -10,7 +10,7 @@
 ---
 
 ## SETUP INSTRUCTIONS 
-Please make backup for qb-core file that you change. I am not responsible for any damage you do to your files/server. 
+Please make backup for **qb-core** file that you change. I am not responsible for any damage you do to your files/server. 
 
 ---
 
