@@ -3,7 +3,7 @@
 ### [DISCORD SUPPORT SERVER](https://discord.gg/5fnpvJaBqh)
 
 ---
-
+                  
 ### [Notify Preview]
 ![image](https://media.discordapp.net/attachments/1043264829722480681/1078942562792001566/Screenshot_9.png?width=1123&height=630)
 
