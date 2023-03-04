@@ -1,4 +1,4 @@
-# **__Created by nil#1818__**
+# **Created by nil#1818**
 
 ### [DISCORD SUPPORT SERVER](https://discord.gg/5fnpvJaBqh)
 
