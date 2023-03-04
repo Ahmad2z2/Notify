@@ -1,4 +1,4 @@
-# Notify new style.
+# Notify new style. *Created by nil#1818*
 
 ### [DISCORD SUPPORT SERVER](https://discord.gg/5fnpvJaBqh)
 
